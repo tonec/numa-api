@@ -18,4 +18,4 @@ Using [yarn](https://yarnpkg.com/en/):
   $ yarn start
 ```
 
-The client side app should be accessible using: http://localhost:3000/ in your browser.
+This API will be running on http://localhost:3030/
